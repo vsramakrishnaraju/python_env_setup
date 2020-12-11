@@ -1,0 +1,30 @@
+Install expected python version first 
+
+https://www.python.org/downloads/ download and install it. 
+
+Check it with : pyhton --version, this shows pyhton verison 2 which by default installed. 
+
+So to cheak version 3.x.x we need to use : pyhton3 --version. 
+
+now creating the env: 
+
+https://docs.python.org/3/tutorial/venv.html - reference 
+
+python3 -m venv "env-name" , this is with out " " and env-name you like. 
+
+source env-name/bin/activate this will activate the env 
+
+deactivate, this command will deactivate the env. 
+
+The above process is for when you can install python version sucessfully, sometimes python cant be installed directly, then figure out how to install required pyhon verison. 
+
+
+
+
+
+
+
+
+
+
+
